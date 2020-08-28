@@ -32,3 +32,4 @@
 <li>After a moment you will see a TIMEOUT message and then file transfer should begin with a count of sectors. The process will end with the TRANSFER COMPLETE message.</li>
 <li>You should now have MBASIC.COM on your A: drive.</li>
 </ol>
+<p>This process can also be used in reverse to move files from CP/M to your PC. Just enter "MODEM S [filename.typ]" on the console and select File, Transfer, XMODEM, Receive on Teraterm. Press return on the console first, then click OK on Teraterm. Always start the sending program first, then the receiver.</p>
